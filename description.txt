@@ -1,0 +1,25 @@
+## Inspiration
+The creation of Notsofasttyping sprouted from a personal curiosity and the urge to dive deeper into web development. As a solo project, it was my playground for experimenting with HTML, CSS, and JavaScript—technologies I was eager to master. The idea was to make a fun, interactive game that could help others, and myself, improve typing speed in an enjoyable way. The name "Notsofasttyping" reflects this journey: starting from not so fast to becoming adept at something you are doing.
+
+## What it does
+Notsofasttyping is a simple web-based typing game. It challenges users to type quotes as accurately and quickly as possible, providing immediate feedback on their words per minute (WPM) and accuracy. It's designed to be intuitive, encouraging users of all typing proficiencies to practice and enhance their skills.
+
+## How we built it
+I built Notsofasttyping using foundational web technologies. HTML structures the game's layout, CSS styles it to be visually engaging, and JavaScript adds the interactive elements—such as fetching random quotes, tracking user input, and calculating typing speeds. I asked for and incorporated guidance and code snippets from various online communities, refining them to fit the game's needs.
+
+## Challenges we ran into
+Balancing functionality with a seamless user experience was challenging. Specifically, implementing a feature to start the timer upon the first keypress and accurately measuring typing speed while providing real-time feedback required careful thought and coding. Additionally, ensuring the game was responsive and accessible across different devices tested my skills in web design.
+
+## Accomplishments that we're proud of
+Completing Notsofasttyping as a solo developer and seeing it function smoothly is one of my biggest accomplishment. I'm proud of implementing the dynamic timer that starts with the first keystroke and calculating the WPM accurately. The positive feedback from early users, who found it useful for improving their typing speed, has been incredibly rewarding.
+
+## What we learned
+This project deepened my understanding of JavaScript and how it interacts with HTML and CSS to create dynamic web applications. I learned about event handling, DOM manipulation, and asynchronous programming with fetch API calls. Most importantly, I learned the significance of user feedback in refining and enhancing a project.
+
+
+## What's next for Notsofasttyping
+I plan to introduce more features based on user feedback. This includes adding a leaderboard to encourage competition, implementing different difficulty levels, and possibly a multiplayer mode for live challenges. I'm also considering adding personalized typing exercises to help users improve specific aspects of their typing. Continuing to develop Notsofasttyping will not only help me grow as a developer but also provide a valuable tool for others wanting to improve their typing skills.
+
+
+## VIDEO DEMO 
+https://youtu.be/cgKqKEEpdPc
